@@ -5,6 +5,8 @@
 
     {% include meta.html %}
 
+    <link rel=icon href="{{ site.baseurl }}/images/logo.png" sizes="any" type="image/png">
+
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -17,12 +19,12 @@
 
   <body>
     <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
+      <header class="masthead clearfix">
+        <div class="container">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <h1 class="site-name">&gt;<a href="{{ site.baseurl }}/">{{ site.name }}</a>_</h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
 
@@ -30,8 +32,8 @@
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
-        </header>
-      </div>
+        </div>
+      </header>
     </div>
 
     <div id="main" role="main" class="container">

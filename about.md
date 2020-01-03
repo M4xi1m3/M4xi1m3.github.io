@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey, I'm M4x1m3, yet another random french dev. I made this blog to post about my different projects and dev-related experiment, both software and hardware.
 
-### More Information
+### Projects
 
-A place to include any other types of information that you'd like to include about yourself.
+- [Omega](https://github.com/Omega-Numworks/Omega) a custom firmware for the Numworks calculator.
+- [Omega-website](https://github.com/Omega-Numworks/Omega-website) a website and one click installer for Omega.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
