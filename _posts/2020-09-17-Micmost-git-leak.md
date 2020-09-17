@@ -67,3 +67,17 @@ I obviously didn't use the data for anything malicious, as this wasn't my goal.
 
 Don't put .git directories in public. Don't open your DB to the internet. Don't be a dick to intruders if they are nice with you, and everything will be fine.
 
+## EDIT: Well, I was wrong.
+
+I had an agreement with them. They let me disclose the vulnerability, but without deteriorating their band image, which I did. As a counterpart, I asked them to let me publish the article on their discord, and publicly. Well, 30s after putting the link on their discord, I got banned. No explainations, straight off banned. So, I'll go full on with them.
+
+The PHP code of their panel is one of the worst thing I've seen in my life. Nothing is protected, and their way of handling starting and stopping the servers can be exploited really easilly.
+
+When I explained to them why slated md5 was a bad choice, they were like "nah, it's ok.". In the end, they didn't disclose that to their constumers, and didn't bother switching hashing algorythm.
+
+Legally speaking, Micmo is **nothing**, not a single information about a company on their website. This is completly illegal, as French laws (yes they are French) require corporations to put informations about the corp itself, like the addresse of the headquarter and the SIRET number.
+
+If you got a server on there, **run away**.
+
+
+
