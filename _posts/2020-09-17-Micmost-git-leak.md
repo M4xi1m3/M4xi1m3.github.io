@@ -69,7 +69,7 @@ Don't put .git directories in public. Don't open your DB to the internet. Don't 
 
 ## EDIT: Well, I was wrong.
 
-I had an agreement with them. They let me disclose the vulnerability, but without deteriorating their band image, which I did. As a counterpart, I asked them to let me publish the article on their discord, and publicly. Well, 30s after putting the link on their discord, I got banned. No explainations, straight off banned. So, I'll go full on with them.
+I had an agreement with them. They let me disclose the vulnerability, but without deteriorating their brand image, which I did. As a counterpart, I asked them to let me publish the article on their discord, and publicly. Well, 30s after putting the link on their discord, I got banned. No explainations, straight off banned. So, I'll go full on with them.
 
 The PHP code of their panel is one of the worst thing I've seen in my life. Nothing is protected, and their way of handling starting and stopping the servers can be exploited really easilly.
 
